@@ -26,7 +26,6 @@
 - [Fairness Metrics](#fairness-metrics)
 - [Visualizations](#visualizations)
 - [Contributing](#contributing)
-- [Citation](#citation)
 - [License](#license)
 
 ---
@@ -438,9 +437,7 @@ University Institute of Computing
 Chandigarh University, Gharaun, India
 
 📧 Email: samirsharmas005@gmail.com  
-🔗 LinkedIn: [Your LinkedIn Profile]  
-🌐 Website: [Your Website]  
-📊 GitHub: [Your GitHub Profile]
+🔗 LinkedIn: [[Linkedin]](https://www.linkedin.com/in/samir-sharma-a1b31a245/)  
 
 ---
 
