@@ -404,22 +404,6 @@ Contributions are welcome! Please follow these guidelines:
 
 ---
 
-## 📚 Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@article{sharma2024genderbias,
-  title={Detecting and Reducing Gender Bias in AI Recruitment Systems using Explainable Machine Learning Models},
-  author={Sharma, Samir},
-  journal={Global Journal of Public Administration and Technology},
-  year={2024},
-  institution={Chandigarh University}
-}
-```
-
----
-
 ## 📖 References
 
 1. Sharma, S. K. (2023). "Gender Bias in AI-Based Recruitment: A Systematic Review." *Global Journal of Public Administration and Technology*, 4(2), 15-28.
